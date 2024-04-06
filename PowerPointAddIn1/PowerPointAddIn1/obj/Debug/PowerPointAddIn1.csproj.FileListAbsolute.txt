@@ -1,0 +1,14 @@
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.AssemblyReference.cache
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.SliderAIForm.resources
+D:\files\Работа\презыии\test\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPoi.19BACE05.Up2Date

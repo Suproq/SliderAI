@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de7d4995-c355-488c-ace2-20fd7fc4754d": {
+      "ProjectGuid": "de7d4995-c355-488c-ace2-20fd7fc4754d",
+      "DisplayName": "PowerPointAddIn1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
